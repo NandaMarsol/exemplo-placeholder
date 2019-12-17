@@ -1,0 +1,16 @@
+#titulo {
+    background-color: rgb(114, 114, 240);
+    text-align: center;
+    padding: 5px;
+    border: 5px solid; 
+
+}
+
+h2{
+    color: azure;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: bold;
+    text-shadow: 4px 3px black;
+    font-size: 35px;
+}
+
